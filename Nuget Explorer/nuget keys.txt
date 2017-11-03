@@ -1,0 +1,11 @@
+DBEN
+https://192.168.0.192:2048
+D028537E-0D11-475B-899F-95E289E6F159
+
+VimServer
+https://VimServer:2048
+D028537E-0D11-475B-899F-95E289E6F159
+
+nuget.org
+https://www.nuget.org
+2b24b688-7012-49aa-b88b-b6da999233ea (一年更新一次)
